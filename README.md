@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 📝 I'm a PhD student in Agricultural Sciences at the University of Bonn.
+- 🔎 I'm working on decision support models for fruit growers. 
+- 🍎 I'm focussed on apple yields and 🥶 frost protection in orchards. 
 <!--
 **ChristineSchmitz/ChristineSchmitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
